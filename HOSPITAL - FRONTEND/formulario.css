@@ -3,18 +3,17 @@
     background-color: rgb(255, 255, 255);
     overflow: auto;
     height: 50px;
-    justify-content: center;
     color: white;
     font-size: 10px;
     display: flex;
     align-items: center;
-    align-content: end;
+    align-content: center;
 }
 
 footer {
     box-sizing: border-box;
     background-color: #072944b4;
-    color: rgba(255, 255, 255, 0.637);
+    color: rgba(255, 255, 255, 0.801);
 }
 
 .column1 {
@@ -86,8 +85,10 @@ footer {
 }
 
 .derechos_reservados {
+
     padding: 20px;
     text-align: center;
     bottom: 0;
     width: 100%;
+    color: black;
 }
