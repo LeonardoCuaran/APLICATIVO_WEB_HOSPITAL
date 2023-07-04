@@ -1,0 +1,93 @@
+.navbar-login {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    overflow: auto;
+    height: 50px;
+    justify-content: center;
+    color: white;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    align-content: end;
+}
+
+footer {
+    box-sizing: border-box;
+    background-color: #072944b4;
+    color: rgba(255, 255, 255, 0.637);
+}
+
+.column1 {
+    float: left;
+    width: 50%;
+    padding: 15px;
+    padding-right: 50px;
+    height: 200px;
+    
+}
+
+.column2 {
+    float: left;
+    width: 50%;
+    padding: 15px;
+    padding-right: 50px;
+    height: 200px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    min-height: 150px;
+    height: auto;
+}
+
+.icon-bar {
+    padding-top: 20px;
+    background-color: #375fff;
+    float: center;
+    text-align: center;
+}
+
+.icon-bar a:hover {
+    background-color: #5c5c5f;
+}
+
+.facebook {
+    background: #3B5998;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.linkedin {
+    background: #007bb5;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.youtube {
+    background: #bb0000;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.content {
+    margin-left: 80px;
+    font-size: 30px;
+}
+
+.derechos_reservados {
+    padding: 20px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
